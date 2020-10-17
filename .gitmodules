@@ -1,51 +1,51 @@
 [submodule "Chapter2"]
 	path = Chapter2
-	url = git@github.com:essentialsofparallelcomputing/Chapter2.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter2.git
 [submodule "Chapter3"]
 	path = Chapter3
-	url = git@github.com:essentialsofparallelcomputing/Chapter3.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter3.git
 [submodule "Chapter4"]
 	path = Chapter4
-	url = git@github.com:essentialsofparallelcomputing/Chapter4.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter4.git
 [submodule "Chapter5"]
 	path = Chapter5
-	url = git@github.com:essentialsofparallelcomputing/Chapter5.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter5.git
 [submodule "Chapter6"]
 	path = Chapter6
-	url = git@github.com:essentialsofparallelcomputing/Chapter6.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter6.git
 [submodule "Chapter7"]
 	path = Chapter7
-	url = git@github.com:essentialsofparallelcomputing/Chapter7.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter7.git
 [submodule "Chapter8"]
 	path = Chapter8
-	url = git@github.com:essentialsofparallelcomputing/Chapter8.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter8.git
 [submodule "Chapter9"]
 	path = Chapter9
-	url = git@github.com:essentialsofparallelcomputing/Chapter9.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter9.git
 [submodule "Chapter10"]
 	path = Chapter10
-	url = git@github.com:essentialsofparallelcomputing/Chapter10.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter10.git
 [submodule "Chapter11"]
 	path = Chapter11
-	url = git@github.com:essentialsofparallelcomputing/Chapter11.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter11.git
 [submodule "Chapter12"]
 	path = Chapter12
-	url = git@github.com:essentialsofparallelcomputing/Chapter12.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter12.git
 [submodule "Chapter13"]
 	path = Chapter13
-	url = git@github.com:essentialsofparallelcomputing/Chapter13.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter13.git
 [submodule "Chapter14"]
 	path = Chapter14
-	url = git@github.com:essentialsofparallelcomputing/Chapter14.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter14.git
 [submodule "Chapter15"]
 	path = Chapter15
-	url = git@github.com:essentialsofparallelcomputing/Chapter15.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter15.git
 [submodule "Chapter16"]
 	path = Chapter16
-	url = git@github.com:essentialsofparallelcomputing/Chapter16.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter16.git
 [submodule "Chapter17"]
 	path = Chapter17
-	url = git@github.com:essentialsofparallelcomputing/Chapter17.git
+	url = https://github.com/essentialsofparallelcomputing/Chapter17.git
 [submodule "AppendixB"]
 	path = AppendixB
-	url = git@github.com:essentialsofparallelcomputing/AppendixB.git
+	url = https://github.com/essentialsofparallelcomputing/AppendixB.git
